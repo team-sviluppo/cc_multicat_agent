@@ -1,0 +1,10 @@
+{
+  "name": "Multicat Agent",
+  "description": "Plugin that allows you to create an agent for multiagent systems",
+  "author_name": "Team Sviluppo",
+  "author_url": "https://www.teamsviluppo.it/",
+  "plugin_url": "https://github.com/team-sviluppo/cc_multicat_agent",
+  "thumb": "https://github.com/team-sviluppo/cc_multicat_agent/blob/032f34b23a73a08ba34139b806d6a14a78cca616/multicatagentlogo.png?raw=true",
+  "tags": "agent, multicat",
+  "version": "1.0.0"
+}
